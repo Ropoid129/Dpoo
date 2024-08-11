@@ -1,0 +1,13 @@
+tipo:Gasolinera 4:14000:4000.0
+tipo:Gasolinera 3:14000:4000.0
+tipo:Gasolinera 2:14000:1000.0
+tipo:Gasolinera 1:14000:2000.0
+surtidor:Juan:Gasolinera 4:0.0:Gasolinera 3:0.0:Gasolinera 2:0.0:Gasolinera 1:0.0
+surtidor:Juan:Gasolinera 4:0.0:Gasolinera 3:0.0:Gasolinera 2:0.0:Gasolinera 1:0.0
+surtidor:Felipe:Gasolinera 4:0.0:Gasolinera 3:0.0:Gasolinera 2:0.0:Gasolinera 1:0.0
+surtidor:Juan:Gasolinera 4:0.0:Gasolinera 3:0.0:Gasolinera 2:0.0:Gasolinera 1:0.0
+empleado:Felipe:0
+empleado:Juan:0
+empleado:Carlos:0
+empleado:Paul:0
+empleado:Julian:0
